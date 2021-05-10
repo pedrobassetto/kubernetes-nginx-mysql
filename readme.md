@@ -7,8 +7,8 @@ A atividade pode ser feita localmente (minikube), AKS (Azure), EKS (AWS) ou no G
 Se quiser criar o cluster nuvem Kubernetes com Terraform é opcional. 
 
 
-[x] Criação do Kubernetes no Azure via Terraform
-[x] Subir pod nginx
-[x] Mapear porta 80 para acesso externo
-[x] Subir pod mysql
-[x] Comunicação de rede entre contêiners
+- [x] Criação do Kubernetes no Azure via Terraform
+- [x] Subir pod nginx
+- [x] Mapear porta 80 para acesso externo
+- [x] Subir pod mysql
+- [x] Comunicação de rede entre contêiners
